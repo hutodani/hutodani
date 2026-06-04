@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Huto 👋
 
-<!--
-**hutodani/hutodani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a cybersecurity student training to become a Penetration Tester. I am currently working toward the Practical Junior Penetration Tester (PJPT) certification. This GitHub serves as a portfolio of my practical labs, course notes, and network testing methodologies.
 
-Here are some ideas to get you started:
+## 🎯 Areas of Focus
+* Network Pentesting: Vulnerability assessment, internal network exploitation, and configuration flaws.
+* Web Application Security: Understanding the OWASP Top 10 and manual flaw discovery.
+* Security Automation: Writing basic scripts to streamline enumeration and scanning workflows.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Toolbelt & Environments
+* OS: Kali Linux, Windows, Linux Subsystems
+* Network & Web Tools: Nmap, Burp Suite, Wireshark, Metasploit, Netcat, Nessus, Hydra.
+* Languages: Bash, Python (for basic scripting)
