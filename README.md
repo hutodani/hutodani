@@ -1,6 +1,6 @@
 # Hi, I'm Huto 👋
 
-I am a cybersecurity student training to become a Penetration Tester. I am currently working toward the Practical Junior Penetration Tester (PJPT) certification. This GitHub serves as a portfolio of my practical labs, course notes, and network testing methodologies.
+I am a cybersecurity student training to become a Penetration Tester. I am currently working toward the Practical Network Penetration Tester (PNPT) certification. This GitHub serves as a portfolio of my practical labs, course notes, and network testing methodologies.
 
 ## 🎯 Areas of Focus
 * Network Pentesting: Vulnerability assessment, internal network exploitation, and configuration flaws.
